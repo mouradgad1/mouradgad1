@@ -63,4 +63,3 @@
 
 ---
 
-⭐ *“Code is the closest thing we have to magic — and I plan to master it.”*
