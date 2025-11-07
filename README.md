@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Mourad Mohamed Gad
+# Hi, I'm Mourad Mohamed Gad
 
-🎓 **Computer Engineering Student** at menoufia national university(Expected 2028)
-💡 Passionate about **Artificial Intelligence**, **Embedded Systems**, and **Web Development**
-🏅 **Merit Scholarship Recipient** — GPA: 3.95 / 4.0
-
----
-
-### 🚀 About Me
-
-* 🔭 Currently working as a **Software Developer** at [OpenQuantify](https://github.com/mouradgad1)
-* 🤖 Exploring **AI**, **IoT**, and **data science** through real-world projects and hackathons
-* 🌱 Always learning — from **assembly and microcontrollers** to **deep learning models**
-* 🧩 Active member of **Zewail City Computing Society (ZCCS)**
-* 🗣 Fluent in **English** and **Arabic**, intermediate in **German**
+**Computer Engineering Student** at menoufia national university(Expected 2028)
+Passionate about **Artificial Intelligence**, **Embedded Systems**, and **Web Development**
+**Merit Scholarship Recipient** — GPA: 3.95 / 4.0
 
 ---
 
-### 🧠 Technical Skills
+### About Me
+
+* Currently working as a **Software Developer** at [OpenQuantify](https://github.com/mouradgad1)
+* Exploring **AI**, **IoT**, and **data science** through real-world projects and hackathons
+* Always learning — from **assembly and microcontrollers** to **deep learning models**
+* Active member of **Zewail City Computing Society (ZCCS)**
+* Fluent in **English** and **Arabic**, intermediate in **German**
+
+---
+
+### Technical Skills
 
 **Languages:** Python, C++, JavaScript, HTML, CSS, 8086 & 8051 Assembly
 **Frameworks & Tools:** Arduino, ESP32, YOLOv5, Git, Linux, Web Deployment
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Projects
+### Projects
 
 * **WiFi Sensing (ESP32):** Visualizes environment using WiFi signals
 * **Obstacle Avoiding Car (Arduino):** Autonomous robot with ultrasonic sensors
@@ -33,7 +33,7 @@
 
 ---
 
-### 🏆 Experience & Activities
+### Experience & Activities
 
 * **Software Developer — OpenQuantify**
   Developing and deploying production web applications and internal tools.
@@ -55,7 +55,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mourad-gad/)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github\&logoColor=white)](https://github.com/mouradgad1)
