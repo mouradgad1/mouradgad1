@@ -1,6 +1,6 @@
 # Hi, I'm Mourad Mohamed Gad
 
-**Computer Engineering Student** at menoufia national university(Expected 2028)
+**Computer Engineering Student** at Menoufia National University(Expected 2028)
 Passionate about **Artificial Intelligence**, **Embedded Systems**, and **Web Development**
 **Merit Scholarship Recipient** — GPA: 3.95 / 4.0
 
