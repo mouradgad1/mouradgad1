@@ -28,7 +28,6 @@ Passionate about **Artificial Intelligence**, **Embedded Systems**, and **Web De
 
 * **WiFi Sensing (ESP32):** Visualizes environment using WiFi signals
 * **Double Descent vs Pca:** Reduces the dimensionality that fuels double-descent
-* **AI Voice Assistant:** Personal Jarvis-style assistant for PC
 * **Object Detection with YOLOv5:** Multi-class detection model trained on Roboflow face detection dataset
 
 
